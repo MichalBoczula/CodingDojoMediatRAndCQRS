@@ -10,8 +10,8 @@ using ToDoList.Application.Contracts;
 
 namespace ToDoList.Application.Features.Queries.Entities.GetTasksList
 {
-    public class GetTasksListQueryHandler : IRequestHandler<GetTasksListQuery, List<TasksListVm>>
-    {
+    //public class GetTasksListQueryHandler : IRequestHandler<GetTasksListQuery, List<TasksListVm>>
+    //{
         
-    }
+    //}
 }
